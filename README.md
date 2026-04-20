@@ -1,14 +1,14 @@
 # E-commerce-Revenue-Drivers-Customer-Behavior-Analysis
 
-## 🇬🇧 English
+## English
 
-### 📌 Project Overview
+### Project Overview
 This project analyzes sales and customer behavior using the Brazilian E-Commerce Public Dataset by Olist.  
 The objective is to identify the main drivers of revenue and provide actionable business insights.
 
 ---
 
-### 🎯 Business Objective
+### Business Objective
 - Understand what drives revenue growth
 - Analyze customer purchasing behavior
 - Identify key product categories
@@ -16,7 +16,7 @@ The objective is to identify the main drivers of revenue and provide actionable 
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -24,7 +24,7 @@ The objective is to identify the main drivers of revenue and provide actionable 
 
 ---
 
-### 📂 Dataset
+### Dataset
 - Source: Brazilian E-Commerce Public Dataset (Olist)
 - Data includes:
   - Orders
@@ -34,7 +34,7 @@ The objective is to identify the main drivers of revenue and provide actionable 
 
 ---
 
-### 📊 Key Metrics
+### Key Metrics
 - Total Revenue
 - Monthly Revenue
 - Number of Orders
@@ -44,7 +44,7 @@ The objective is to identify the main drivers of revenue and provide actionable 
 
 ---
 
-### 🔍 Key Insights
+### Key Insights
 
 - Revenue growth is driven primarily by an increase in the number of orders.
 - Average order value remains relatively stable over time.
@@ -57,7 +57,7 @@ The objective is to identify the main drivers of revenue and provide actionable 
 
 ---
 
-### 💡 Business Recommendations
+### Business Recommendations
 
 - Implement customer retention strategies (loyalty programs, incentives)
 - Increase marketing efforts to acquire new customers
@@ -66,15 +66,15 @@ The objective is to identify the main drivers of revenue and provide actionable 
 
 ---
 
-## 🇪🇸 Español
+## Español
 
-### 📌 Descripción del Proyecto
+### Descripción del Proyecto
 Este proyecto analiza el comportamiento de ventas y clientes utilizando el Brazilian E-Commerce Public Dataset by Olist.  
 El objetivo es identificar los principales factores que impulsan el revenue y generar insights accionables para la toma de decisiones.
 
 ---
 
-### 🎯 Objetivo de Negocio
+### Objetivo de Negocio
 - Entender qué impulsa el crecimiento del revenue
 - Analizar el comportamiento de compra de los clientes
 - Identificar las categorías clave
@@ -82,7 +82,7 @@ El objetivo es identificar los principales factores que impulsan el revenue y ge
 
 ---
 
-### 🛠️ Herramientas
+### Herramientas
 - Python
 - Pandas
 - NumPy
@@ -90,7 +90,7 @@ El objetivo es identificar los principales factores que impulsan el revenue y ge
 
 ---
 
-### 📂 Dataset
+### Dataset
 - Fuente: Olist Brazilian E-Commerce Dataset
 - Tablas utilizadas:
   - Orders
@@ -100,7 +100,7 @@ El objetivo es identificar los principales factores que impulsan el revenue y ge
 
 ---
 
-### 📊 Métricas Clave
+### Métricas Clave
 - Revenue total y mensual
 - Número de órdenes
 - Ticket promedio
@@ -109,7 +109,7 @@ El objetivo es identificar los principales factores que impulsan el revenue y ge
 
 ---
 
-### 🔍 Principales Insights
+### Principales Insights
 
 - El crecimiento del revenue está impulsado por el aumento en el número de órdenes.
 - El ticket promedio se mantiene estable.
@@ -122,7 +122,7 @@ El objetivo es identificar los principales factores que impulsan el revenue y ge
 
 ---
 
-### 💡 Recomendaciones
+### Recomendaciones
 
 - Implementar estrategias de fidelización
 - Aumentar adquisición de clientes
