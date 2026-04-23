@@ -1,5 +1,10 @@
 # E-commerce-Revenue-Drivers-Customer-Behavior-Analysis
 
+## Key Insight
+
+Revenue growth is primarily driven by an increase in the number of orders, while average order value remains stable.  
+Additionally, over 90% of customers are one-time buyers, indicating a strong opportunity for retention strategies.
+
 ## English
 
 ### Project Overview
